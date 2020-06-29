@@ -21,8 +21,8 @@ public class BookService {
          return booksList;
     }
 
-    public void saveBook(Books books){
-        bookRepository.save(books);
+    public Books saveBook(Books books){
+        return bookRepository.save(books);
     }
 
     public void deleteBook(int id){

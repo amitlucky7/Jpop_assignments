@@ -21,8 +21,8 @@ public class UserService {
         return UsersList;
     }
 
-    public void saveUser(User Users){
-        UserRepository.save(Users);
+    public User saveUser(User Users){
+        return UserRepository.save(Users);
     }
 
     public void deleteUser(int id){
@@ -33,9 +33,4 @@ public class UserService {
         return UserRepository.findById(id);
 
     }
-
-    public void updateUser(User User){
-        UserRepository.save(User);
-    }
-
 }
