@@ -1,0 +1,1 @@
+insert into books (title,author,price,user_id) values('Java Programming','Amit Sharma',123.45,501);
