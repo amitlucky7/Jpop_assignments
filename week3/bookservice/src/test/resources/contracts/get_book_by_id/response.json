@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "bookName": "jpop",
+  "bookDescription": "my test description",
+  "authorName": "EPAM",
+  "createdBy": "Amit",
+  "createdOn": "2020-06-13",
+  "lastModifiedBy": "Amit",
+  "lastModifiedOn": "2020-06-13"
+}

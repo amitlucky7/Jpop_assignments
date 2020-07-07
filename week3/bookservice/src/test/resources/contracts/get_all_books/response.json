@@ -1,0 +1,22 @@
+[
+  {
+    "id": 11,
+    "bookName": "jpop",
+    "bookDescription": "my test description",
+    "authorName": "EPAM",
+    "createdBy": "Amit",
+    "createdOn": "2020-06-13",
+    "lastModifiedBy": "Amit",
+    "lastModifiedOn": "2020-01-08"
+  },
+  {
+    "id": 12,
+    "bookName": "jpop2",
+    "bookDescription": "my test description2",
+    "authorName": "EPAM",
+    "createdBy": "Sumit",
+    "createdOn": "2020-06-13",
+    "lastModifiedBy": "Sumit",
+    "lastModifiedOn": "2020-01-08"
+  }
+]
